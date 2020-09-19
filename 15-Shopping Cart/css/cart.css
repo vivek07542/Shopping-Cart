@@ -1,0 +1,40 @@
+body{
+  background-color: #eaf5f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  margin-top: 20px;
+  color:#03668d; 
+}
+.dyanaBox{
+  width:18rem;
+  height:160px;
+  border:1px solid black;
+  border-radius: 3px;
+  color:black;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;  
+
+  /* padding-top: 15px; */
+}
+.innerBox1{
+  /* background-color: green; */
+  /* border:1px solid red;  */
+  padding-top:20px;
+}
+.innerBox2{
+  /* background-color: blue; */
+  /* border:1px solid red; */
+  padding-top:20px; 
+}
+.innerBox3{
+  /* background-color: yellow; */
+  /* border:1px solid red; */
+  padding-top:20px; 
+}
+.innerBox4{
+  /* background-color: pink; */
+  /* border:1px solid red; */
+  padding-top:20px; 
+}
