@@ -6,35 +6,26 @@ h1{
   margin-top: 20px;
   color:#03668d; 
 }
-.dyanaBox{
-  width:18rem;
+.divDynamicBox{
+  width:19rem;
   height:160px;
   border:1px solid black;
   border-radius: 3px;
   color:black;
   font-weight: 600;
   font-size: 18px;
-  text-align: center;  
-
-  /* padding-top: 15px; */
+  text-align: center; 
+  margin:0 25px; 
 }
 .innerBox1{
-  /* background-color: green; */
-  /* border:1px solid red;  */
   padding-top:20px;
 }
 .innerBox2{
-  /* background-color: blue; */
-  /* border:1px solid red; */
   padding-top:20px; 
 }
 .innerBox3{
-  /* background-color: yellow; */
-  /* border:1px solid red; */
   padding-top:20px; 
 }
 .innerBox4{
-  /* background-color: pink; */
-  /* border:1px solid red; */
   padding-top:20px; 
 }
