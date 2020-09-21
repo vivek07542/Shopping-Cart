@@ -1,0 +1,31 @@
+body{
+  background-color: #eaf5f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  margin-top: 20px;
+  color:#03668d; 
+}
+.divDynamicBox{
+  width:19rem;
+  height:160px;
+  border:1px solid black;
+  border-radius: 3px;
+  color:black;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center; 
+  margin:0 25px; 
+}
+.innerBox1{
+  padding-top:20px;
+}
+.innerBox2{
+  padding-top:20px; 
+}
+.innerBox3{
+  padding-top:20px; 
+}
+.innerBox4{
+  padding-top:20px; 
+}
